@@ -5,7 +5,7 @@ This project is a web interface inspired by Google Drive, built using HTML, CSS,
 ## Table of Contents
 - [Features](#features)
 - [Project Structure](#project-structure)
-- [clone](git clone https://github.com/JalajBaghwala/GoogleDrive.git
+- [clone](https://github.com/JalajBaghwala/GoogleDrive.git)
 )
 - [Usage](#usage)
 - [Contributing](#contributing)
